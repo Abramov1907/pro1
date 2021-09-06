@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 14px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width:100vw;
+    height: 100vh;
+    background: url('../img/background_registr.jpg') center no-repeat;
+    background-size:cover ;
+}
+.main{
+    width:50%;
+    height: 50%;
+    min-width: 312px;
+    border-radius: 30px;
+    background-color: #fff;
+}
+h1{
+    margin: 3% 0 0 0;
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+}
+.pole-1{
+    width: 50%;
+    height: 13%;
+    margin: 3% 28% 0;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.pole-2{
+    width: 50%;
+    height: 14%;
+    margin: 2.5% 28% 0;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.button{
+    width: 30%;
+    height:15%;
+    background: #022A6C;
+    border-radius: 30px;
+    margin: 4% 40% 2%;
+}
+.button-text{
+    font-size: 1.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#fff;
+}
+.text{
+    padding: 0 10% 0 10%;
+}
+.a1{
+    margin: 0 0 0 17%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1em;
+    line-height: 30px;
+    color: #00304B;
+}
+.a2{
+    margin: 0 0 0 17%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1em;
+    line-height: 30px;
+    color: #00304B;
+}
+a{
+    color:#00304B;
+    text-decoration: none;
+  }
+    a:visited{
+      color: #00304B;
+    }
+  a:hover{
+    color:red;
+    text-decoration: underline;
+  }

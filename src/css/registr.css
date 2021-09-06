@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 14px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width:100vw;
+    height: 100vh;
+    background: url('../img/background_registr.jpg') center no-repeat;
+    background-size:cover ;
+}
+.main{
+    width:55%;
+    height: 70%;
+    min-width: 315px;
+    max-height: 600px;
+    border-radius: 30px;
+    background-color: #fff;
+}
+h1{
+    margin: 1.5% 0 0 0;
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+}
+.pole-1{
+    width: 70%;
+    height: 8%;
+    margin: 2% 15% 0%;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.pole-2{
+    width: 70%;
+    height: 8%;
+    margin: 2% 15% 0%;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.pole-3{
+    width: 70%;
+    height: 8%;
+    margin: 2% 15% 0%;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.pole-4{
+    width: 30%;
+    height: 8%;
+    margin: 2% 9.5% 0 15%;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.pole-5{
+    width: 30%;
+    height: 8%;
+    margin: 2% 0 0 0;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.pole-6{
+    width: 70%;
+    height: 8%;
+    margin: 2% 15% 0%;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.pole-7{
+    width: 30%;
+    height: 8%;
+    margin: 2% 9.5% 0 15%;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.pole-8{
+    width: 30%;
+    height: 8%;
+    margin: 2% 0 0 0;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.button{
+    width: 30%;
+    height:10%;
+    background: #022A6C;
+    border-radius: 30px;
+    margin: 2% 35% 0;
+}
+.button-text{
+    font-size: 0.75em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#fff;
+}
